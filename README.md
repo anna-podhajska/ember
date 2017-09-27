@@ -6,9 +6,9 @@ created on first Ember workshop
 * `git clone <repository-url>` this repository
 * `npm install`
 
-## Running / Development
+## then Run it
 
-* `ember serve`
+* `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
 
